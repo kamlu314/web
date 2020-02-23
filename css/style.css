@@ -1,0 +1,198 @@
+
+*{
+    font-family: "Ubuntu";
+    font-size: medium;
+}
+
+body{
+    background-color: rgba(156, 152, 152, 0.548);
+}
+
+h1 { font-family: Ubuntu; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Ubuntu; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Ubuntu; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Ubuntu; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Ubuntu; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+
+
+
+
+
+
+/*--header--*/
+
+.header{
+    background-color: white;
+    min-height: 70px;
+    border-radius: 12px;
+}
+
+
+.list{
+    text-decoration: none;
+    padding: 13px;
+}
+
+.list li{
+    display: inline-block;
+}
+
+.list li a{
+    text-decoration: none;
+    font-size: small;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 2px black solid;
+    padding: 3px 30px 3px 30px;
+}
+
+.list li a:hover{
+    color: white;
+    background-color: black;
+} 
+
+#feedback_button{
+    color: yellow;
+    background-color: purple;
+}
+
+#feedback_button:hover{
+    color: purple;
+    background-color: yellow;
+}
+
+
+
+
+
+
+/*--body--*/
+
+.body{
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    height: 700px;
+}
+
+
+
+
+.picture img{
+    padding: 12px;
+    float: right;
+    width: 35%;
+}
+
+
+.logo img{
+    width: 12%;
+    float: left;
+    padding:13px;
+}
+.logo img:hover{
+    box-shadow: gray;
+}
+
+
+
+
+.bodytext{
+    text-align: center;
+    margin-left: 30%;
+    border: 2px solid black;
+}
+
+#text1{
+    font-size: 70px;
+    font-family:'Fredoka One';
+}
+
+#text2{
+    font-size: 60px;
+    font-family:'Fredoka One';
+}
+#text3{
+    font-size: 50px;
+    font-family:'Fredoka One';
+}
+#text4{
+    font-size: 40px;
+    font-family:'Fredoka One';
+}
+
+
+
+
+
+
+
+
+/*--footer*/
+.footer{
+    background-color: black;
+    margin-bottom: 0;
+    border-radius: 10px;
+}
+
+.footer_img img{
+    width: 100%;
+}
+
+.copyright{
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 4px;
+    color: rgb(168, 167, 167);
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text{
+    color: rgb(168, 167, 167);
+    text-align: center;
+}
+
+.quote:hover{
+    color: white;
+}
+
+
+.navigation{
+
+}
+
+.navigation li{
+    display: inline;
+}
+
+.navigation li a{
+    text-decoration: none;
+}
+
+.navigation li a:hover{
+    color: white;
+}
+
+.social{
+    text-align: left;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    border-radius: 8px;
+
+}
+
+.img{
+    height: 30px;
+}
+
+.contact{
+    color: rgb(168, 167, 167);
+    float: right;
+    margin-right: 7px;
+    font-size: small;
+}
+
+.contact:hover{
+    color: white;
+}
+
+
