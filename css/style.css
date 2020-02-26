@@ -202,11 +202,12 @@ pre {
 
 .navigation li {
   display: inline;
-  color: gray;
+
 }
 
 .navigation li a {
   text-decoration: none;
+  color: gray;
 }
 
 .navigation li a:hover {
