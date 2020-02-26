@@ -134,6 +134,7 @@ pre {
 }
 .logo img:hover {
   box-shadow: gray;
+  box-shadow: 5px;
 }
 
 
