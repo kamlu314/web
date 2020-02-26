@@ -69,7 +69,7 @@ pre {
 
 .list {
   text-decoration: none;
-  padding: 13px;
+  padding: 17px;
 }
 
 .list li {
@@ -110,7 +110,7 @@ pre {
 
 .body {
   background-color: #fff;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 30px;
   border-radius: 12px;
   height: 700px;
