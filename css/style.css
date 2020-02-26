@@ -142,7 +142,7 @@ pre {
 
 .bodytext {
   text-align: center;
-  margin-left: 30%;
+  margin-left: 25%;
 
 
 
@@ -153,19 +153,19 @@ pre {
 
 
 #text1 {
-  font-size: 70px;
+  font-size: 80px;
   font-family: 'Fredoka One';
   padding-top: 12%;
 
 }
 
 #text2 {
-  font-size: 50px;
+  font-size: 70px;
   font-family: 'Fredoka One';
 
 }
 #text3 {
-  font-size: 35px;
+  font-size: 40px;
   font-family: 'Fredoka One';
 
 }
