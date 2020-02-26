@@ -148,26 +148,30 @@ pre {
 
 }
 
+#text {
+  margin-top: 25%;
+}
+
 #text1 {
   font-size: 70px;
   font-family: 'Fredoka One';
-  margin-top: 5%;
+
 }
 
 #text2 {
   font-size: 50px;
   font-family: 'Fredoka One';
-  margin-top: 5%;
+
 }
 #text3 {
   font-size: 35px;
   font-family: 'Fredoka One';
-  padding-top: 5%;
+
 }
 #text4 {
   font-size: 25px;
   font-family: 'Fredoka One';
-  padding-top: 5%;
+
 }
 
 
