@@ -134,7 +134,7 @@ pre {
 }
 .logo img:hover {
   box-shadow: gray;
-  box-shadow: 5px;
+
 }
 
 
@@ -153,15 +153,15 @@ pre {
 }
 
 #text2 {
-  font-size: 60px;
-  font-family: 'Fredoka One';
-}
-#text3 {
   font-size: 50px;
   font-family: 'Fredoka One';
 }
+#text3 {
+  font-size: 35px;
+  font-family: 'Fredoka One';
+}
 #text4 {
-  font-size: 40px;
+  font-size: 25px;
   font-family: 'Fredoka One';
 }
 
