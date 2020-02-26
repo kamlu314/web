@@ -83,6 +83,7 @@ pre {
   border-top-right-radius: 5px;
   border: 2px black solid;
   padding: 3px 30px 3px 30px;
+  color: black;
 }
 
 .list li a:hover {
